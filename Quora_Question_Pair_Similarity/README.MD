@@ -16,11 +16,17 @@ Steps followed for approaching the solution:
 
 Referance :
 
-• Source : https://www.kaggle.com/c/quora-question-pairs ____ Useful Links ____
+• Source : 
+https://www.kaggle.com/c/quora-question-pairs
+
 • Discussions :
-https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-
-lb/comments
-• Kaggle Winning Solution and other approaches: https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZd
-• Blog 1 : https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
-• Blog 2 : https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-
-on-kaggle-4c1cf93f1c30
+https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
+
+• Kaggle Winning Solution and other approaches:
+https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZd
+
+• Blog 1 : 
+https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+
+• Blog 2 : 
+https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
