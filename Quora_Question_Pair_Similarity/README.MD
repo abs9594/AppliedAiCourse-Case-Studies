@@ -1,8 +1,8 @@
 			This project case study was done as a part of course by appliedaicourse.com . The problem statment is from a kaggle competion where we were needed to find similarity between two quora questions so that portal can mark a question duplicate of other.
 
-Steps followed for approcahing the solution:
+Steps followed for approaching the solution:
 
-1. Data Collection : Data is available at kaggle (https://www.kaggle.com/c/quora-question-pairs/data)
+1. Data Collection : Data was taken and is available at kaggle (https://www.kaggle.com/c/quora-question-pairs/data)
 
 2. EDA was done to analyse and extract insights of data present.
 
