@@ -1,8 +1,8 @@
-			This project case study was done as a part of course by appliedaicourse.com . The problem statment is from a kaggle competion where we were needed to find similarity between two quora questions so that portal can mark a question duplicate of other.
+    This project case study was done as a part of course by appliedaicourse.com. The problem statment is taken from a kaggle competion where we were needed to find similarity between two quora questions so that portal can mark a question duplicate of other.
 
-Steps followed for approcahing the solution:
+Steps followed for approaching the solution:
 
-1. Data Collection : Data is available at kaggle (https://www.kaggle.com/c/quora-question-pairs/data)
+1. Data Collection : Data was taken and is available at kaggle (https://www.kaggle.com/c/quora-question-pairs/data)
 
 2. EDA was done to analyse and extract insights of data present.
 
@@ -16,11 +16,17 @@ Steps followed for approcahing the solution:
 
 Referance :
 
-• Source : https://www.kaggle.com/c/quora-question-pairs ____ Useful Links ____
+• Source : 
+https://www.kaggle.com/c/quora-question-pairs
+
 • Discussions :
-https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-
-lb/comments
-• Kaggle Winning Solution and other approaches: https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZd
-• Blog 1 : https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
-• Blog 2 : https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-
-on-kaggle-4c1cf93f1c30
+https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
+
+• Kaggle Winning Solution and other approaches:
+https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZd
+
+• Blog 1 : 
+https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+
+• Blog 2 : 
+https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
