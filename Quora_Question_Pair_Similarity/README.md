@@ -1,4 +1,4 @@
-    This project case study was done as a part of course by appliedaicourse.com. The problem statment is taken from a kaggle competion where we were needed to find similarity between two quora questions so that portal can mark a question duplicate of other.
+    This project case study was done as a part of course by appliedaicourse.com. The problem statment is taken from a kaggle competion where we were needed to find similarity between two quora questions so that portal can mark a question duplicate of other
 
 Steps followed for approaching the solution:
 
